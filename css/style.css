@@ -72,16 +72,12 @@ p {
   justify-content: space-around;
   align-items: center;
   row-gap: 60px;
-  background-color: #FFD400; /* yellow accent, shows through the gaps */
-}
-
-.grid img {
-  width: 100%;
+  background-color: #FFF3B0; /* pale/pastel yellow accent, shows through the gaps */
 }
 
 .flex {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  background-color: #FFD400; /* yellow accent, shows through the gaps */
+  background-color: #FFF3B0; /* pale/pastel yellow accent, shows through the gaps */
 }
